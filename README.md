@@ -1,5 +1,5 @@
 
-# Paint Application with Hand Tracking
+# Ai Virtual Painter with Hand Tracking
 
 ## Overview
 This project is a hand gesture-controlled paint application that uses a webcam feed to detect hand movements and perform drawing or erasing actions. The application utilizes the **Mediapipe** library for hand tracking and **OpenCV** for video processing and drawing. Users can select different brush colors, draw on a virtual canvas, or erase parts of their drawings using hand gestures.
