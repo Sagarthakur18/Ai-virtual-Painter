@@ -1,4 +1,4 @@
-```markdown
+
 # Paint Application with Hand Tracking
 
 ## Overview
@@ -100,12 +100,10 @@ pip install opencv-python numpy mediapipe
 
 ## Demo
 
-### Application Preview
-![Application Preview](![image](https://github.com/user-attachments/assets/30d9cd3d-7e01-4c62-b797-180787fc8af4)
-)
+
 
 ### Header Section
-![Header Example]("![image](https://github.com/user-attachments/assets/fcdfa1f6-3db7-4aa3-ac7b-087dcff8726c)
+("![image](https://github.com/user-attachments/assets/fcdfa1f6-3db7-4aa3-ac7b-087dcff8726c)
 ")
 
 ---
